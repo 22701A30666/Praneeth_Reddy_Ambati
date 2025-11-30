@@ -1,0 +1,136 @@
+[
+  {
+    "id": "e5de5f38-18e3-49ec-ae4a-4f928277272b",
+    "userId": "d4b3769b-e9bc-4d72-b08a-fd59b2d52265",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T04:45:45.894Z",
+    "createdAt": "2025-11-30T04:45:45.894Z",
+    "checkOutTime": "2025-11-30T04:47:23.301Z",
+    "totalHours": 0.03
+  },
+  {
+    "id": "f75b2954-dcbe-4056-9c4e-f372468aff70",
+    "userId": "1459b6a4-344e-4f49-9c4e-d76d1f33bd70",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T04:54:59.755Z",
+    "createdAt": "2025-11-30T04:54:59.755Z"
+  },
+  {
+    "id": "cb3e775b-b38b-463c-880b-f3dd5cc2d3bf",
+    "userId": "65f6b1c2-82fd-4b88-80e0-c5a6a8979643",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T04:56:21.834Z",
+    "createdAt": "2025-11-30T04:56:21.834Z",
+    "checkOutTime": "2025-11-30T04:58:15.322Z",
+    "totalHours": 0.03
+  },
+  {
+    "id": "f128b00a-98b2-42c0-ac53-8c0745068714",
+    "userId": "b810e887-e7e6-4c1c-969c-56c1503b309e",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T05:01:10.966Z",
+    "createdAt": "2025-11-30T05:01:10.966Z"
+  },
+  {
+    "id": "578f2947-4e5b-4dd2-ba47-457259d762cd",
+    "userId": "6cba54e8-8cdd-49ec-8cfb-66a1a94f53c1",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T05:03:35.732Z",
+    "createdAt": "2025-11-30T05:03:35.732Z",
+    "checkOutTime": "2025-11-30T05:07:05.803Z",
+    "totalHours": 0.06
+  },
+  {
+    "id": "9951b8db-c1e7-4145-82d0-d12adf5f375a",
+    "userId": "e7df8f16-dae5-48e2-8e92-bb75641ec243",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T06:01:59.422Z",
+    "createdAt": "2025-11-30T06:01:59.422Z",
+    "checkOutTime": "2025-11-30T06:03:23.783Z",
+    "totalHours": 0.02
+  },
+  {
+    "id": "1d6e4e8f-63f8-4421-84b6-5a62450ba1ac",
+    "userId": "af4f431a-ec8c-49fb-a28b-33321aafded9",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T06:05:08.561Z",
+    "createdAt": "2025-11-30T06:05:08.561Z",
+    "checkOutTime": "2025-11-30T06:05:22.508Z",
+    "totalHours": 0
+  },
+  {
+    "id": "c37e5fa8-faf8-4d26-8e7b-fe75f1ed65df",
+    "userId": "8b529e68-8009-475f-a34e-3df3674a04e9",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T06:11:22.624Z",
+    "createdAt": "2025-11-30T06:11:22.624Z"
+  },
+  {
+    "id": "1e7d68b2-207c-4a57-9b48-47b6ec964e34",
+    "userId": "67909aa2-1945-4d1f-a04d-15837ba3e34d",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T06:15:00.938Z",
+    "createdAt": "2025-11-30T06:15:00.938Z",
+    "checkOutTime": "2025-11-30T06:19:00.250Z",
+    "totalHours": 0.07
+  },
+  {
+    "id": "b0d4ca9c-ac7f-4090-80b8-296c27577d53",
+    "userId": "c40b2a7f-1f4e-4290-a3ea-58be46a414b9",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T06:21:55.099Z",
+    "createdAt": "2025-11-30T06:21:55.099Z"
+  },
+  {
+    "id": "58830c9e-243d-4e9e-a48f-2278ad3f253b",
+    "userId": "d506d334-7aac-486a-9b7f-e39c0373116c",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T06:39:51.615Z",
+    "createdAt": "2025-11-30T06:39:51.615Z"
+  },
+  {
+    "id": "b12e6150-db4f-4a82-ab9c-94c8f5190486",
+    "userId": "624fce35-2683-49be-bb34-a558e410345d",
+    "date": "2025-11-30",
+    "status": "present",
+    "checkInTime": "2025-11-30T06:42:30.667Z",
+    "createdAt": "2025-11-30T06:42:30.667Z"
+  },
+  {
+    "id": "07d6f8b3-5c37-4a94-a77a-36890160258a",
+    "userId": "8079e6af-341a-4603-8ced-80e66ce0e677",
+    "date": "2025-11-30",
+    "status": "absent",
+    "checkInTime": "2025-11-30T06:43:10.473Z",
+    "createdAt": "2025-11-30T06:43:10.473Z"
+  },
+  {
+    "id": "3568bc38-470e-41bc-b311-aa76de673427",
+    "userId": "9612230a-b538-4b1e-84a2-d20bbceda498",
+    "date": "2025-11-30",
+    "status": "absent",
+    "checkInTime": "2025-11-30T06:46:36.512Z",
+    "createdAt": "2025-11-30T06:46:36.512Z"
+  },
+  {
+    "id": "8ed24b56-721a-471b-805a-91bba801a072",
+    "userId": "261065e1-8797-491d-adee-ada757720e2f",
+    "date": "2025-11-30",
+    "status": "half-day",
+    "checkInTime": "2025-11-30T07:05:12.906Z",
+    "createdAt": "2025-11-30T07:05:12.906Z",
+    "checkOutTime": "2025-11-30T07:05:16.166Z",
+    "totalHours": 0
+  }
+]

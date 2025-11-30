@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg: #0b1021;
+  --surface: #121735;
+  --muted: #7a86a8;
+  --text: #eaf0ff;
+  --primary: #6c8cff;
+  --primary-600: #5a78e6;
+  --secondary: #22d3ee;
+  --danger: #ef4444;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --border: rgba(255,255,255,0.08);
+  --shadow: 0 10px 30px rgba(0,0,0,0.35);
+  --radius: 12px;
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color: var(--text);
+  background: radial-gradient(1200px 600px at 20% -10%, #1a2050, #0b1021 50%),
+              radial-gradient(800px 400px at 100% 20%, #1b2a55, transparent 60%);
+}
+
+.container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 20px; }
+
+.nav {
+  position: sticky; top: 0; z-index: 10;
+  background: rgba(18, 23, 53, 0.75);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+.nav-inner { display: flex; align-items: center; gap: 16px; padding: 14px 20px; }
+.brand { font-weight: 700; letter-spacing: 0.3px; color: var(--text); }
+.grow { margin-left: auto; }
+.nav a { color: var(--muted); text-decoration: none; font-weight: 500; }
+.nav a:hover { color: var(--text); }
+
+.card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.grid { display: grid; gap: 16px; }
+.grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+.input, .select {
+  width: 100%;
+  background: #0f1430;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.label { font-size: 0.9rem; color: var(--muted); margin-bottom: 6px; display: block; }
+.field { display: grid; gap: 6px; }
+
+.btn {
+  appearance: none; border: none; cursor: pointer; font-weight: 600;
+  color: #0b1021; background: var(--text);
+  padding: 10px 14px; border-radius: 10px;
+}
+.btn:hover { opacity: 0.95; }
+.btn:disabled { opacity: 0.6; cursor: not-allowed; }
+.btn-primary { color: white; background: var(--primary); }
+.btn-secondary { color: #062c30; background: var(--secondary); }
+.btn-danger { color: white; background: var(--danger); }
+
+.stack { display: grid; gap: 12px; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; }
+
+.table { width: 100%; border-collapse: collapse; }
+.table th, .table td { padding: 10px 8px; text-align: left; }
+.table thead th { border-bottom: 1px solid var(--border); color: var(--muted); font-weight: 600; }
+.table tbody tr { border-bottom: 1px solid var(--border); }
+.table tbody tr:hover { background: rgba(255,255,255,0.02); }
+
+.badge { display: inline-block; padding: 4px 8px; border-radius: 999px; font-size: 0.85rem; }
+.badge.present { background: rgba(34, 197, 94, 0.2); color: var(--success); }
+.badge.late { background: rgba(59, 130, 246, 0.2); color: #60a5fa; }
+.badge.half-day { background: rgba(245, 158, 11, 0.2); color: var(--warning); }
+.badge.absent { background: rgba(239, 68, 68, 0.2); color: var(--danger); }
+
+.section-title { margin: 0 0 12px; }
+.muted { color: var(--muted); }
+
+.bar-row { display: grid; grid-template-columns: 220px 1fr 80px; align-items: center; gap: 10px; }
+.bar { width: 100%; height: 12px; background: #0f1430; border: 1px solid var(--border); border-radius: 999px; overflow: hidden; }
+.bar-fill { height: 100%; background: linear-gradient(90deg, var(--primary), var(--secondary)); }
+.bar-label { color: var(--muted); font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-value { text-align: right; font-weight: 600; }
+
+.calendar { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
+.calendar-head { text-align: center; font-weight: 600; color: var(--muted); }
+.calendar-cell { min-height: 90px; border: 1px solid var(--border); border-radius: 10px; padding: 8px; display: grid; align-content: start; gap: 6px; }
+.day-num { font-weight: 700; }
+.day-status { font-size: 0.85rem; }
+.day.present { background: rgba(34,197,94,0.08); }
+.day.late { background: rgba(96,165,250,0.08); }
+.day.half-day { background: rgba(245,158,11,0.08); }
+.day.absent { background: rgba(239,68,68,0.08); }

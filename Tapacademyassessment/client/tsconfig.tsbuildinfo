@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/pages/allemployeespage.tsx","./src/pages/dashboardpage.tsx","./src/pages/historypage.tsx","./src/pages/loginpage.tsx","./src/pages/managerdashboardpage.tsx","./src/pages/registerpage.tsx","./src/pages/reportspage.tsx","./src/pages/teamcalendarpage.tsx","./src/services/api.ts","./src/store/auth.ts"],"version":"5.9.3"}

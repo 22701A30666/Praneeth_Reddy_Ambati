@@ -1,0 +1,202 @@
+[
+  {
+    "id": "a8272da9-7200-4415-b627-6cf977af5929",
+    "name": "Team Manager",
+    "email": "manager@example.com",
+    "passwordHash": "$2a$10$UWmlM1zP1934yoG5rUOfUOTazxLrg8a64OFPikmQwqmsskG0BCwyu",
+    "role": "manager",
+    "employeeId": "MGR001",
+    "department": "Management",
+    "createdAt": "2025-11-30T04:43:01.355Z"
+  },
+  {
+    "id": "67909aa2-1945-4d1f-a04d-15837ba3e34d",
+    "name": "Employee 1",
+    "email": "emp1@example.com",
+    "passwordHash": "$2a$10$..MZz8m.rZNW.y41LY6HAOVMtZN0wPOwzsFSiyMURPSrnZQjXooIy",
+    "role": "employee",
+    "employeeId": "EMP001",
+    "department": "Sales",
+    "createdAt": "2025-11-30T04:43:01.485Z"
+  },
+  {
+    "id": "624fce35-2683-49be-bb34-a558e410345d",
+    "name": "Employee 2",
+    "email": "emp2@example.com",
+    "passwordHash": "$2a$10$GRwgelOyyKYmFqAq5VCz/utr2Tlf8BqjKFli1/KFqFC.tlliY.i6y",
+    "role": "employee",
+    "employeeId": "EMP002",
+    "department": "Support",
+    "createdAt": "2025-11-30T04:43:01.614Z"
+  },
+  {
+    "id": "8079e6af-341a-4603-8ced-80e66ce0e677",
+    "name": "Employee 3",
+    "email": "emp3@example.com",
+    "passwordHash": "$2a$10$v/3LnyFxWWKNuahRtvaQg.HyLerthpSDf1ubbsOUBN5.LEyb3PsmK",
+    "role": "employee",
+    "employeeId": "EMP003",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T04:43:01.743Z"
+  },
+  {
+    "id": "e4bb1836-7cac-40dd-8494-f76ba9833726",
+    "name": "Employee 4",
+    "email": "emp4@example.com",
+    "passwordHash": "$2a$10$AlmnwCrlokA4nZUfYsRA/OY.9OvSq/sBcqLFEUUWuMTIiKsmW5JzG",
+    "role": "employee",
+    "employeeId": "EMP004",
+    "department": "Sales",
+    "createdAt": "2025-11-30T04:43:01.873Z"
+  },
+  {
+    "id": "b15fa8f0-fb5e-4fae-a065-ee8c9af24032",
+    "name": "Employee 5",
+    "email": "emp5@example.com",
+    "passwordHash": "$2a$10$b3V8Bgko62JChrqjFeketeKyy4lGRwXKiRSomyeTzrJY5XDtWyTCu",
+    "role": "employee",
+    "employeeId": "EMP005",
+    "department": "Support",
+    "createdAt": "2025-11-30T04:43:02.001Z"
+  },
+  {
+    "id": "3d949a16-fea3-48e1-bc38-5e8a0ebdc1a4",
+    "name": "Persist User",
+    "email": "persist@example.com",
+    "passwordHash": "$2a$10$g.uXDT4OvvYVxrNx0Egv7OcLKQzQDVnAvMU8yJ6UPbRltfqW7XIKy",
+    "role": "employee",
+    "employeeId": "EMP777",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T04:43:21.382Z"
+  },
+  {
+    "id": "d4b3769b-e9bc-4d72-b08a-fd59b2d52265",
+    "name": "shivaji",
+    "email": "shivajigoud@gmail.com",
+    "passwordHash": "$2a$10$lojXuX.EEIOVS/5wKlfroOwksXV4AgZUB7IDB7Xl4QlkGp5e5gAQ.",
+    "role": "manager",
+    "employeeId": "2210",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T04:45:42.631Z"
+  },
+  {
+    "id": "1459b6a4-344e-4f49-9c4e-d76d1f33bd70",
+    "name": "shivajigoud",
+    "email": "shivajigoud87@gmail.com",
+    "passwordHash": "$2a$10$k/VHpG1iOiRjTnwOIeHzL.ajDRmlcB/9S3VfaELK./gnAWR1cD3TW",
+    "role": "employee",
+    "employeeId": "EMP22",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T04:54:54.198Z"
+  },
+  {
+    "id": "65f6b1c2-82fd-4b88-80e0-c5a6a8979643",
+    "name": "prasanna",
+    "email": "prasanna@gmail.com",
+    "passwordHash": "$2a$10$w.ADdUQCW8jPKKErw5EKKOyQF5bUGXre0TyItZUvOccY99gxWY/U2",
+    "role": "manager",
+    "employeeId": "EMP234",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T04:56:13.550Z"
+  },
+  {
+    "id": "b810e887-e7e6-4c1c-969c-56c1503b309e",
+    "name": "karthik",
+    "email": "karthik@example.com",
+    "passwordHash": "$2a$10$UB.5TzuFV9xPkGnqSYhdYuNyOmlWYYk5lRAX3pBVQ/cLYpscMIa5a",
+    "role": "employee",
+    "employeeId": "EMP24",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T05:00:59.933Z"
+  },
+  {
+    "id": "6cba54e8-8cdd-49ec-8cfb-66a1a94f53c1",
+    "name": "shivaji goud",
+    "email": "shivaji12@gmail.com",
+    "passwordHash": "$2a$10$VIXSmXNbGF5ywwmF9MKjpuQy5iBzanWgzpYFmU5SxurlBbAB1VxRm",
+    "role": "manager",
+    "employeeId": "EMP34",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T05:03:31.547Z"
+  },
+  {
+    "id": "e7df8f16-dae5-48e2-8e92-bb75641ec243",
+    "name": "praneeth",
+    "email": "praneeth@gmail.com",
+    "passwordHash": "$2a$10$.qfb3M5tKTQsBhpTMvueaOP9hd7A3Z1Gvc3OstQHzSCJuMaWETSpi",
+    "role": "manager",
+    "employeeId": "EMP60",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:01:49.032Z"
+  },
+  {
+    "id": "af4f431a-ec8c-49fb-a28b-33321aafded9",
+    "name": "raghava",
+    "email": "raghava@gmail.com",
+    "passwordHash": "$2a$10$6qBU5G0gdekjb2XehrlKfufEwBLFh7kF5.cs0xxlX.chnNXQ2aNfW",
+    "role": "employee",
+    "employeeId": "EMP67",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:04:31.144Z"
+  },
+  {
+    "id": "a0bdf22f-9604-4cee-ae23-a11e7f17b099",
+    "name": "yash",
+    "email": "yash@gmail.com",
+    "passwordHash": "$2a$10$h8vYldgncSs7lIj0dVI8t.scOnYunVaZ3UeuUh4FDkZQzRxzofFb6",
+    "role": "employee",
+    "employeeId": "EMP60",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:10:02.214Z"
+  },
+  {
+    "id": "8b529e68-8009-475f-a34e-3df3674a04e9",
+    "name": "yash",
+    "email": "yash1@gmail.com",
+    "passwordHash": "$2a$10$DmC6S3CoLvUjveJNLJKlDuapKKgBYZT0DzR/.7/Dpeq2inGFRh.ay",
+    "role": "employee",
+    "employeeId": "EMP61",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:11:17.847Z"
+  },
+  {
+    "id": "c40b2a7f-1f4e-4290-a3ea-58be46a414b9",
+    "name": "shivaji goud ediga",
+    "email": "shivaji1@gmail.com",
+    "passwordHash": "$2a$10$YHSrJ//jx9R5lISY4LGYc.vn8bifTf5uQfPo8ysJYL2.qVRVi5nKa",
+    "role": "manager",
+    "employeeId": "EMP45",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:20:17.938Z"
+  },
+  {
+    "id": "d506d334-7aac-486a-9b7f-e39c0373116c",
+    "name": "pavani",
+    "email": "pava@gmail.com",
+    "passwordHash": "$2a$10$SeWrfA1xYw3xAxixGtOd1OUgiPqS47xJWL4BNoEHfI4VbCDCiReau",
+    "role": "manager",
+    "employeeId": "EMP0023",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:38:44.727Z"
+  },
+  {
+    "id": "9612230a-b538-4b1e-84a2-d20bbceda498",
+    "name": "vishnu",
+    "email": "vishnu@gmail.com",
+    "passwordHash": "$2a$10$HrotrBh1VBWAB5qtXEUn8Oj.KKwrtka1zBYfzChsH4Xa3Ka9qQxC2",
+    "role": "manager",
+    "employeeId": "EMP112",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T06:45:48.284Z"
+  },
+  {
+    "id": "261065e1-8797-491d-adee-ada757720e2f",
+    "name": "shivaji",
+    "email": "shivajigoud00@gmail.com",
+    "passwordHash": "$2a$10$zJiCiK9fZNmuKfbn5EZxTe2hUvXV2ZhGFxfZARid.23amotG/jkLC",
+    "role": "manager",
+    "employeeId": "EMP456",
+    "department": "Engineering",
+    "createdAt": "2025-11-30T07:04:15.682Z"
+  }
+]
