@@ -19,3 +19,8 @@ See `.env.example` in `server/` and `client/` for required variables.
 
 ## Notes
 This starter uses in‑memory storage for users and attendance to keep the focus on UI/API flows. Swap to a real database (PostgreSQL/Prisma or MongoDB/Mongoose) as a follow‑up.
+
+##Student Details:
+- Student name: Praneeth Reddy Ambati
+- College name: Annamacharya Institute of Technology and Sciences,Rajampet
+- Contact no: 8919484543
